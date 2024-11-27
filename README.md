@@ -12,7 +12,9 @@ Made with 💝 for 🐧</p>
 
 # OBS Studio Portable for Linux
 
-OBS Studio Portable is built from [toolbx-images/images](https://github.com/toolbx-images/images) and [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) using Ubuntu. Additionally, OBS Studio Portable for Linux includes the following features:
+This fork is for me (Laaaain) to create my own custom image tailored towards V-Tubing, VR DJing and streaming and for livestreaming audio + visuals in VR night clubs (such as using the ARC 5.1 upmix setup that SHELTERNET uses in VRchat requiring different audio plugins etc). This repo will be updated very infrequently.
+
+OBS Studio Portable is built from [toolbx-images/images](https://github.com/toolbx-images/images) and [ublue-os/obs-studio-portable](https://github.com/ublue-os/obs-studio-portable) using Ubuntu. Additionally, OBS Studio Portable for Linux includes the following features:
 
 - Includes **50 of the best 3rd Party plugins for OBS Studio**!
 - Chromium Embedded Frameworks (CEF) to enable Browser Sources
